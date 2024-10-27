@@ -2,7 +2,7 @@ function Set-ConnectorRelay {
     ### New Connector for Printers and Webformular
     ### By Emil Kraft Mathiasen
     ### V. 1.0
-    ### 
+    ### test
     
     
     param (
