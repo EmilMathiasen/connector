@@ -1,8 +1,9 @@
 function Set-ConnectorRelay {
     ### New Connector for Printers and Webformular
     ### By Emil Kraft Mathiasen
-    ### V. 1.0
-    ### test
+    ### V. 1.0.1
+    ### This is for setting up a connector in exchange online. 
+    ### The Documentation is here https://lazyadmin.nl/office-365/smtp-relay-in-office-365/
     
     
     param (
